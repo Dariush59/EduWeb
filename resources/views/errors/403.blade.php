@@ -1,0 +1,1 @@
+<h2>{{__('messages.ERRORS.403')}}</h2>
